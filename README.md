@@ -1,4 +1,2 @@
 # Projetos_JavaScript
-# javascript
-# javascript
-# javascript
+### Projetos feitos durante o curso de Javascript do Professor Gustavo Guanabara
